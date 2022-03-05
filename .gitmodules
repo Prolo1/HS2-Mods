@@ -1,0 +1,6 @@
+[submodule "6e09f3844685dccb0789e6d42f1b7b8c8dc13fe5?url=git%40github.com%3AProlo1%2FCharacter-Morpher"]
+	path = 6e09f3844685dccb0789e6d42f1b7b8c8dc13fe5?url=git%40github.com%3AProlo1%2FCharacter-Morpher
+	url = gitkraken://repolink/6e09f3844685dccb0789e6d42f1b7b8c8dc13fe5?url=git%40github.com%3AProlo1%2FCharacter-Morpher.git
+[submodule "Character-Morpher"]
+	path = Character-Morpher
+	url = git@github.com:Prolo1/Character-Morpher.git
